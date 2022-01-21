@@ -26,14 +26,18 @@ ________________________________________________________________________________
 --
 
 
-admin login
+admin_login
 --
+  
   
   admin name :admin
   admin pass :1234
  
+ 
 merchant_login
 --
+
+
   * merchant can be directly added by admin
   
   
@@ -50,6 +54,8 @@ merchant_login
 
 user_login
 --
+
+
   * user account can be created directly by user by follwing steps
             
             
